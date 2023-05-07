@@ -19,7 +19,7 @@ Alguns canais para contato.
 </table>
 </div>
 <br />
-Resumindo
+Resumindo.
 <div>
 Infraestrutura em tecnologia da informação: Conhecimento avançado em Server 2008, 2012 e 2016. Administração dos sistemas em servidores, configuração e instalação de sistemas operacionais, instalação e configuração de hardwares e periféricos, redes de computadores e cabeamento estruturado. Essa trajetória é melhor abordada no <a href="https://www.linkedin.com/in/usimarc/" target="_blank">Linkedin</a>.
 <br />
@@ -55,7 +55,6 @@ Linguagens, tecnologias e ferramentas que tenho tido contato.
 <br />
 Indicadores do Github.
 <div>
-<br />
 <img align="left" alt="GitHub Top Langs" width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usimarc&theme=github_dark"/>
 &nbsp; 
 <img align="center" alt="GitHub Stats" width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usimarc&theme=github_dark"/>
