@@ -3,5 +3,5 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/usimarc/usimarc/blob/master/img/header.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/usimarc/usimarc/blob/main/img/header.png?raw=true"/>
 </div>
