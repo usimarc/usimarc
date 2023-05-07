@@ -57,9 +57,9 @@ Indicadores do Github.
 <div>
 <br />
 <img align="left" alt="GitHub Top Langs" width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=usimarc&theme=github_dark"/>
-&nbsp;
-&nbsp;
-&nbsp;
+&nbsp; 
 <img align="center" alt="GitHub Stats" width="23%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=usimarc&theme=github_dark"/>
-<img align="right" alt="GitHub Details" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usimarc&theme=github_dark"/>
+<br />
+<br />
+<img align="left" alt="GitHub Details" width="48%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usimarc&theme=github_dark"/>
 </div>
