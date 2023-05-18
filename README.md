@@ -23,7 +23,7 @@ Resumindo.
 <div>
 Infraestrutura em tecnologia da informação: Conhecimento avançado em Server 2008, 2012 e 2016. Administração dos sistemas em servidores, configuração e instalação de sistemas operacionais, instalação e configuração de hardwares e periféricos, redes de computadores e cabeamento estruturado. Essa trajetória é melhor abordada no <a href="https://www.linkedin.com/in/usimarc/" target="_blank">Linkedin</a>.
 <br />
-Desenvolvimento de software: Estou adquirindo conhecimento das tecnologias: HTML, JQuery, CSS, Java Script, TypeScript, React, Redux, Node, Git, Github, Docker, MySql, MongoDB, Sequelize e outras para a formação full stack pela Trybe. Em paralelo rola o curso de Análise e desenvolvimento de software pela PUC-Minas presencial.
+Desenvolvimento de software: Estou adquirindo conhecimento das tecnologias: HTML, JQuery, CSS, BootStrap, Java Script, TypeScript, React, Redux, Node, Git, Github, Docker, MySql, MongoDB, Sequelize e outras para a formação full stack pela Trybe. Em paralelo rola o curso de Análise e desenvolvimento de software pela PUC-Minas presencial.
 <div>
 <br />
 Linguagens, tecnologias e ferramentas que tenho tido contato.
