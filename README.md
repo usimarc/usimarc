@@ -34,6 +34,8 @@ Linguagens, tecnologias e ferramentas que tenho tido contato.
 &nbsp;
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/css.svg"/></a></code>
 &nbsp;
+<code><a href="https://getbootstrap.com" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/BootStrap.png"/></a></code>
+&nbsp;
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/js.png"/></a></code>
 &nbsp;
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/TypeScript.png"/></a></code>
