@@ -28,13 +28,13 @@ Desenvolvimento de software: Estou adquirindo conhecimento das tecnologias: HTML
 <br />
 Linguagens, tecnologias e ferramentas que tenho tido contato.
 <div>
-<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/js.png"/></a></code>
-&nbsp;
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/html.svg"/></a></code>
 &nbsp;
 <code><a href="https://jquery.com/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/jquery.png"/></a></code>
 &nbsp;
 <code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/css.svg"/></a></code>
+&nbsp;
+<code><a href="https://www.w3schools.com/js/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/js.png"/></a></code>
 &nbsp;
 <code><a href="https://www.typescriptlang.org/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/TypeScript.png"/></a></code>
 &nbsp;
