@@ -1,4 +1,4 @@
-Olá, sou Marcelo Gomes, habilitado AB, moro em Belo Horizonte, tenho 40 anos e estou em transição de carreira de infraestrutura para desenvolvimento!
+Olá, sou Marcelo Gomes, habilitado AB, moro em Belo Horizonte e estou em transição de carreira de infraestrutura para desenvolvimento!
 <div>
 <img align="center" alt="Header" src="https://github.com/usimarc/usimarc/blob/main/img/header.png?raw=true"/>
 </div>
