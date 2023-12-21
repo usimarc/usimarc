@@ -23,7 +23,7 @@ Resumindo.
 <div>
 Infraestrutura em tecnologia da informação: Conhecimento avançado em Server 2008, 2012 e 2016. Administração dos sistemas em servidores, configuração e instalação de sistemas operacionais, instalação e configuração de hardwares e periféricos, redes de computadores e cabeamento estruturado. Essa trajetória é melhor abordada no <a href="https://www.linkedin.com/in/usimarc/" target="_blank">Linkedin</a>.
 <br />
-Desenvolvimento de software: Estou adquirindo conhecimento das tecnologias: HTML, JQuery, CSS, BootStrap, Java Script, TypeScript, React, Redux, Node, Git, Github, Docker, MySql, Sequelize, MongoDB, Monboose e outras para a formação full stack pela Trybe. Em paralelo rola o curso de Análise e desenvolvimento de software pela PUC-Minas presencial.
+Desenvolvimento de software: Estou adquirindo conhecimento das tecnologias: HTML, JQuery, CSS, BootStrap, Java Script, TypeScript, React, Redux, Node, Git, Github, Docker, SQL, MySql, Sequelize, MongoDB, Monboose e outras para a formação full stack pela Trybe. Em paralelo rola o curso de Análise e desenvolvimento de software pela PUC-Minas presencial.
 <div>
 <br />
 Linguagens, tecnologias e ferramentas que tenho tido contato.
@@ -45,6 +45,8 @@ Linguagens, tecnologias e ferramentas que tenho tido contato.
 <code><a href="https://nodejs.org/en/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/nodejs.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.docker.com/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/docker.png"/></a></code>
+  &nbsp; 
+<code><a href="https://www.w3schools.com/sql/default.asp" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/SQL.png"/></a></code>
 &nbsp; 
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/aws.svg"/></a></code>
 &nbsp; 
