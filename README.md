@@ -50,8 +50,6 @@ Linguagens, tecnologias e ferramentas que tenho tido contato.
 &nbsp; 
 <code><a href="https://aws.amazon.com/pt/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/aws.svg"/></a></code>
 &nbsp; 
-<code><a href="https://www.w3schools.com/sql/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/SQL.png"/></a></code>
-&nbsp; 
 <code><a href="https://sequelize.org/" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/Sequelize.png"/></a></code>
 &nbsp; 
 <code><a href="https://www.mongodb.com/pt-br" target="_blank"><img width="32" height="32" src="https://github.com/usimarc/usimarc/blob/main/img/mongodb.png"/></a></code>
